@@ -3,3 +3,5 @@
 * Họ và tên: Phạm Minh Quốc
 * MSSV:2011068467
 * Ngày Sinh:08/10/2002
+1. Họ và tên: Phạm Minh Quốc
+2. Ngày Sinh:08/10/2002
